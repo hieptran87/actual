@@ -14,7 +14,7 @@ i18n
     // While we mark all strings for translations, one can test
     // it by setting the language in localStorage to their choice.
     // Set this to 'cimode' to see the exact keys without interpolation.
-    lng: localStorage.getItem('language') || 'en',
+    lng: localStorage.getItem('language') || 'vi',
 
     // allow keys to be phrases having `:`, `.`
     nsSeparator: false,
